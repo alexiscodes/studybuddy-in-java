@@ -1,0 +1,8 @@
+/workspaces/studybuddy-in-java/src/main/java/com/studybuddy/App.java
+/workspaces/studybuddy-in-java/src/main/java/com/studybuddy/model/Note.java
+/workspaces/studybuddy-in-java/src/main/java/com/studybuddy/model/Task.java
+/workspaces/studybuddy-in-java/src/main/java/com/studybuddy/service/NoteManager.java
+/workspaces/studybuddy-in-java/src/main/java/com/studybuddy/service/NoteStorage.java
+/workspaces/studybuddy-in-java/src/main/java/com/studybuddy/service/PomodoroTimer.java
+/workspaces/studybuddy-in-java/src/main/java/com/studybuddy/service/TaskManager.java
+/workspaces/studybuddy-in-java/src/main/java/com/studybuddy/service/TaskStorage.java
