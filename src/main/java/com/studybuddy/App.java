@@ -661,7 +661,7 @@ public class App extends Application {
         noteContentInput.clear();
 
         noteStatusLabel.setText(
-            "Ready to write a new note!"
+            "ready to write a new note!"
         );
     }
 
