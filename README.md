@@ -11,3 +11,4 @@ my fav is definitely the to do list called 'my study tasks' to keep all the work
 
 
 <img width="952" height="767" alt="image" src="https://github.com/user-attachments/assets/477f9859-85b7-4f73-b99a-e7ddeb40abbd" />
+<img width="1912" height="1030" alt="image" src="https://github.com/user-attachments/assets/59da2cf5-5841-464b-966b-2132d6ffd6b7" />
