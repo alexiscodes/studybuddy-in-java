@@ -8,3 +8,6 @@ it currently only runs on web version, i might try to make it an app if i get ti
 it has features like 
 counting 25Min pomodoro timers which can be paused/resumed,started and reset.
 my fav is definitely the to do list called 'my study tasks' to keep all the work organised and we also have study notes where u can choose the subject and add some short notes , id personally use this as a student
+
+
+<img width="952" height="767" alt="image" src="https://github.com/user-attachments/assets/477f9859-85b7-4f73-b99a-e7ddeb40abbd" />
